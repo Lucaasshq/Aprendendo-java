@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfe98cd5-c379-457e-a2a2-e9fd16915529" name="Changes" comment="" />
+    <list default="true" id="cfe98cd5-c379-457e-a2a2-e9fd16915529" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estrutura Exepcionais.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CepinvalidoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExemploExcessão.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FormatadorCepExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LendoDadosDoUsuario.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
